@@ -2,7 +2,7 @@
 This Arduino Library allow to integrate Digital and Analog inputs, and digital outputs with the platform sammgps.com
 
 ## How to Install
-Download the Samm.cpp and Samm.h files.
+Download the `Samm.cpp` and `Samm.h` files.
 Go to your arduino folder and create this scheme
 
 ```
